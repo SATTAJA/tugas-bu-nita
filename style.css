@@ -1,0 +1,16 @@
+body {
+    background: url(red_eyes_yor_forger_with_red_rose_flower_4k_hd_spy_x_family-3840x2160.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+b{
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 8px 8px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
